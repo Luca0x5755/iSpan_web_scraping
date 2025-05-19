@@ -1,3 +1,7 @@
+result/
+source/
+list_source.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
