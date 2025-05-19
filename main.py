@@ -7,7 +7,7 @@ import random
 
 URL = 'https://www.gutenberg.org/browse/languages/zh'
 SOURCE_PATH = 'source'
-RESULT_PATH = 'result'
+RESULT_PATH = 'project_gutenberg'
 
 def load_book_list_page():
     res = requests.get(URL)
